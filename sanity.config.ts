@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'calidw',
 
-  projectId: 'jdlrpcx4',
+  projectId: 'ejlhmf3v',
   dataset: 'production',
 
   plugins: [structureTool(), visionTool()],
